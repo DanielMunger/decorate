@@ -1,0 +1,24 @@
+.column img{
+  height: 300px;
+  width: 300px;
+  float: left;
+  padding:10px;
+  background-color: lightblue;
+}
+.column{
+  margin-left: 15%;
+}
+.content{
+  float: left;
+}
+p{
+  text-align: center;
+  font-size: 20px;
+}
+h1{
+  text-align: center;
+  background-color: lightgrey;
+}
+p.under{
+  width: 300px;
+}
